@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-anonymous-pro: "Anonymous Pro";
+  --font-lexend: Lexend;
+  --font-open-sans: "Open Sans";
+  --font-myanmar-khyay: "Myanmar Khyay";
+  --font-lemon: Lemon;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-21xl: 40px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+  --font-size-14xl: 33px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #171a1f;
+  --color-darkslategray-100: #374151;
+
+  /* Gaps */
+  --gap-19xl: 38px;
+  --gap-11xl: 30px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+  --gap-5xl: 24px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-6xs: 7px;
+  --padding-7xl: 26px;
+  --padding-base: 16px;
+  --padding-2xs: 11px;
+  --padding-142xl: 161px;
+  --padding-lg: 18px;
+  --padding-10xl: 29px;
+  --padding-mini: 15px;
+  --padding-xl: 20px;
+  --padding-smi: 13px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}
